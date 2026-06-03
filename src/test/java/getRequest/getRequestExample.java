@@ -7,7 +7,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.*;
 
 public class getRequestExample {
-//first get program
+
 	Response response;
 	
 	@Test
